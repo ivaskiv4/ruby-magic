@@ -1,1 +1,1 @@
-# ruby-magic
+# ruby-magic :)
